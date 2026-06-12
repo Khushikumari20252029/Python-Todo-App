@@ -19,3 +19,13 @@ Features:
 Technology Used:
 - Python
 - OOP (Classes & Objects)
+  
+## 3. Expense Tracker
+Features:
+* Add Expense
+* View Expenses
+* Calculate Total Expenses
+
+Technologies Used:
+
+* Python
