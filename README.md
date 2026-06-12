@@ -1,6 +1,5 @@
-# Python-Todo-App# Python To-Do List App
-
-A simple To-Do List application built using Python.
+##python projects:
+### 1. Python-Todo-App
 
 Features:
 - Add Task
@@ -10,3 +9,13 @@ Features:
 
 Technology Used:
 - Python
+## 2. Student Management System
+Features:
+- Add Student
+- View Students
+- Search Student
+- Delete Student
+
+Technology Used:
+- Python
+- OOP (Classes & Objects)
